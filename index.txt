@@ -1,0 +1,27 @@
+1  Create an Info File for a Module
+2  Routes
+  2.1  Create a Route and Controller
+  2.2  Parameters in a Route
+  2.3  Dynamic Title for a Route
+3. Define Permissions for a Module
+  3.1 Add Access Checking to a Route
+4. Return JSON, Plain Text, and Other Non-HTML Responses
+5. What Are Hooks?
+ 5.1 Implement Any Hook
+ 5.2 Discover Existing Hooks
+ 5.3 Define and Invoke a New Hook
+6.  What Are Plugins? 
+  6.1 Drupal Plugin Types
+  6.2 Define a New Plugin Type
+  6.3 Discover Existing Plugin Types
+  6.4 Implement a Plugin of Any Type
+  6.5 Plugin Managers
+  6.7 Plugin Discovery
+7. What Are Events?
+  7.1 Discover Existing Events
+  7.2 Subscribe to an Event
+  7.3 Dispatch an Event
+  7.4 Discover and Use Existing Services
+8 Annotations
+9 Add New Theme Hook Suggestions
+10 Make Strings Translatable
